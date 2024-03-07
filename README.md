@@ -2,10 +2,14 @@
 
 ## This library simplifies integrating Google Play In-App Purchases and Subscriptions into your Android application. It handles the following tasks:
 
-1- Establishes a connection to Google Play Billing Service\n
-2- Queries for product details (price, description, etc.)\n
-3- Initiates purchase flow for in-app purchases and subscriptions\n
+1- Establishes a connection to Google Play Billing Service
+
+2- Queries for product details (price, description, etc.)
+
+3- Initiates purchase flow for in-app purchases and subscriptions
+
 4- Verifies purchase signatures for security
+
 5- Provides callbacks for purchase updates and connection status
 
 ## Prerequisites
@@ -109,7 +113,9 @@
 ## Additional Notes
 
 Replace placeholder values with your actual Google Play Console details and product IDs.
+
 Refer to the Google Play Billing documentation for more information about product details, purchase flow, and troubleshooting: https://developer.android.com/google/play/billing/integrate
+
 This library provides a basic foundation for integrating Google Play In-App Purchases and Subscriptions. You can extend it further based on your specific needs.
 
 
