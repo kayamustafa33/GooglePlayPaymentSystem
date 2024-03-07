@@ -28,6 +28,7 @@ Usage
 Initialization
 To initialize the Google Payment Service, create an instance of GooglePaymentService:
 
+```kotlin
 val googlePaymentService = GooglePaymentService()
 
 Connecting Payment
