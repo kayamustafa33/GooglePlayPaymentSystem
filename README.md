@@ -31,7 +31,7 @@
 ### Add the dependency in your app's build.gradle file:
 
     dependencies {
-        implementation 'com.github.kayamustafa33:GooglePlayPaymentSystem:1.0'
+        implementation ("com.github.kayamustafa33:GooglePlayPaymentSystem:1.0")
     }
 
 ## Usage
